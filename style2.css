@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+} 
+h1.header {
+    color: black;
+    font-family: 'Acme', sans-serif;
+}
+p.p1 {
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    margin-top: -20px;
+}
